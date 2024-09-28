@@ -14,3 +14,7 @@ core-lambda-stubs.jar
 --------
 this lib need java 1.8 target compilance
 and maybe leaks memory, if you make applications for android wearable objects
+be sur to have a correct toolchain and an os compilant with this functions 
+see informations about this subject (since c++11)
+https://en.cppreference.com/w/cpp/language/auto
+https://en.cppreference.com/w/cpp/language/lambda
