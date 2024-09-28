@@ -13,3 +13,4 @@ The accompanying resources must also be included in the application.
 core-lambda-stubs.jar
 --------
 this lib need java 1.8 target compilance
+and maybe leaks memory, if you make applications for android wearable objects
